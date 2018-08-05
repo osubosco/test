@@ -1,0 +1,565 @@
+#EXTM3U
+#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : BBC FHD 1"  group-title="UK - Entertainment",UK FHD : BBC FHD 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15565.ts
+#EXTINF:0, tvg-id="BBC2.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : BBC FHD 2"  group-title="UK - Entertainment",UK FHD : BBC FHD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15566.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : BBC FHD 3/CBBC"  group-title="UK - Entertainment",UK FHD : BBC FHD 3/CBBC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15607.ts
+#EXTINF:0, tvg-id="BBC4.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : BBC FHD 4/CBEEBIES"  group-title="UK - Entertainment",UK FHD : BBC FHD 4/CBEEBIES
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15606.ts
+#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="http://149.56.14.45/Logo/2018/yurvrq1433963684.png" tvg-name="UK HD : BBC HD 1"  group-title="UK - Entertainment",UK HD : BBC HD 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4687.ts
+#EXTINF:0, tvg-id="BBC2.uk" tvg-logo="http://149.56.14.45/Logo/2018/vxsqut1433963676.png" tvg-name="UK HD : BBC HD 2"  group-title="UK - Entertainment",UK HD : BBC HD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4686.ts
+#EXTINF:0, tvg-id="BBC1.uk" tvg-logo="http://149.56.14.45/Logo/2018/yyqrvu1433940918.png" tvg-name="UK : BBC1"  group-title="UK - Entertainment",UK : BBC1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4893.ts
+#EXTINF:0, tvg-id="BBC4.uk" tvg-logo="http://149.56.14.45/Logo/2018/txypru1433940904.png" tvg-name="UK : BBC4"  group-title="UK - Entertainment",UK : BBC4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4890.ts
+#EXTINF:0, tvg-id="GOLD.uk" tvg-logo="http://149.56.14.45/Logo/2018/rsvvvy1433964138.png" tvg-name="UK : GOLD"  group-title="UK - Entertainment",UK : GOLD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4832.ts
+#EXTINF:0, tvg-id="Universal.uk" tvg-logo="http://149.56.14.45/Logo/2018/wpyvps1434506150.png" tvg-name="UK FHD : UNIVERSAL FHD"  group-title="UK - Entertainment",UK FHD : UNIVERSAL FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9394.ts
+#EXTINF:0, tvg-id="Syfy.uk" tvg-logo="http://149.56.14.45/Logo/2018/n261wf1515520491.png" tvg-name="UK FHD : SYFY FHD"  group-title="UK - Entertainment",UK FHD : SYFY FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9396.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : ITV FHD 1"  group-title="UK - Entertainment",UK FHD : ITV FHD 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15598.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : ITV FHD 2"  group-title="UK - Entertainment",UK FHD : ITV FHD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15597.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : ITV FHD 3"  group-title="UK - Entertainment",UK FHD : ITV FHD 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15596.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : ITV FHD 4"  group-title="UK - Entertainment",UK FHD : ITV FHD 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15595.ts
+#EXTINF:0, tvg-id="ITV1Anglia.uk" tvg-logo="http://149.56.14.45/Logo/2018/rrsutq1433964193.png" tvg-name="UK HD : ITV HD 1"  group-title="UK - Entertainment",UK HD : ITV HD 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4645.ts
+#EXTINF:0, tvg-id="ITV2.uk" tvg-logo="http://149.56.14.45/Logo/2018/swuupy1442161759.png" tvg-name="UK HD : ITV HD 2"  group-title="UK - Entertainment",UK HD : ITV HD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4644.ts
+#EXTINF:0, tvg-id="ITV3.uk" tvg-logo="http://149.56.14.45/Logo/2018/xtwyty1433964256.png" tvg-name="UK HD : ITV HD 3"  group-title="UK - Entertainment",UK HD : ITV HD 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4643.ts
+#EXTINF:0, tvg-id="ITV4.uk" tvg-logo="http://149.56.14.45/Logo/2018/ywruvq1433964279.png" tvg-name="UK HD : ITV HD 4"  group-title="UK - Entertainment",UK HD : ITV HD 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4642.ts
+#EXTINF:0, tvg-id="ITVEncore.uk" tvg-logo="http://149.56.14.45/Logo/2018/yxtpyw1433779779.png" tvg-name="UK HD :  ITV ENCORE HD"  group-title="UK - Entertainment",UK HD :  ITV ENCORE HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4701.ts
+#EXTINF:0, tvg-id="FOX.uk" tvg-logo="http://149.56.14.45/Logo/2018/90ggh91509312656.png" tvg-name="UK FHD : FOX FHD"  group-title="UK - Entertainment",UK FHD : FOX FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9432.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : TLC FHD"  group-title="UK - Entertainment",UK FHD : TLC FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15568.ts
+#EXTINF:0, tvg-id="TLC.uk" tvg-logo="http://149.56.14.45/Logo/2018/xvxyvp1433781081.png" tvg-name="UK : TLC"  group-title="UK - Entertainment",UK : TLC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4722.ts
+#EXTINF:0, tvg-id="MTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/qrrvsq1433779294.png" tvg-name="UK FHD : MTV FHD"  group-title="UK - Entertainment",UK FHD : MTV FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9426.ts
+#EXTINF:0, tvg-id="Alibi.uk" tvg-logo="http://149.56.14.45/Logo/2018/wvusxv1434039040.png" tvg-name="UK FHD : ALIBI FHD"  group-title="UK - Entertainment",UK FHD : ALIBI FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9449.ts
+#EXTINF:0, tvg-id="GoodFood.uk" tvg-logo="http://149.56.14.45/Logo/2018/rxrtpp1434028376.png" tvg-name="UK FHD : GOOD FOOD FHD"  group-title="UK - Entertainment",UK FHD : GOOD FOOD FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9431.ts
+#EXTINF:0, tvg-id="S4C.uk" tvg-logo="http://149.56.14.45/Logo/2018/sswpuw1434029048.png" tvg-name="UK HD : S4C HD"  group-title="UK - Entertainment",UK HD : S4C HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4626.ts
+#EXTINF:0, tvg-id="E4.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvtprr1443637599.png" tvg-name="UK FHD : E4 FHD"  group-title="UK - Entertainment",UK FHD : E4 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9437.ts
+#EXTINF:0, tvg-id="More4.uk" tvg-logo="http://149.56.14.45/Logo/2018/uwpquy1433964372.png" tvg-name="UK FHD : MORE 4 FHD"  group-title="UK - Entertainment",UK FHD : MORE 4 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9427.ts
+#EXTINF:0, tvg-id="4Seven.uk" tvg-logo="http://149.56.14.45/Logo/2018/tqyxsy1482271659.png" tvg-name="UK FHD : 4 SEVEN FHD"  group-title="UK - Entertainment",UK FHD : 4 SEVEN FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9450.ts
+#EXTINF:0, tvg-id="BBC2.uk" tvg-logo="http://149.56.14.45/Logo/2018/ysqvyr1433945409.png" tvg-name="UK : BBC2"  group-title="UK - Entertainment",UK : BBC2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4892.ts
+#EXTINF:0, tvg-id="BBCAlba.uk" tvg-logo="http://149.56.14.45/Logo/2018/ryvwyr1434019456.png" tvg-name="UK : BBC ALBA"  group-title="UK - Entertainment",UK : BBC ALBA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4899.ts
+#EXTINF:0, tvg-id="Quest.uk" tvg-logo="http://149.56.14.45/Logo/2018/djln5l1512588383.png" tvg-name="UK : QUEST"  group-title="UK - Entertainment",UK : QUEST
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4790.ts
+#EXTINF:0, tvg-id="Challenge.uk" tvg-logo="http://149.56.14.45/Logo/2018/rppxxq1480520610.png" tvg-name="UK : CHALLENGE"  group-title="UK - Entertainment",UK : CHALLENGE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4872.ts
+#EXTINF:0, tvg-id="CBSReality.uk" tvg-logo="http://149.56.14.45/Logo/2018/p8ibr11515749271.png" tvg-name="UK : CBS Reality"  group-title="UK - Entertainment",UK : CBS Reality
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4874.ts
+#EXTINF:0, tvg-id="CBSDrama.uk" tvg-logo="http://149.56.14.45/Logo/2018/uqsyvt1433964820.png" tvg-name="UK : CBS DRAMA"  group-title="UK - Entertainment",UK : CBS DRAMA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4875.ts
+#EXTINF:0, tvg-id="CBSAction.uk" tvg-logo="http://149.56.14.45/Logo/2018/ststry1433964782.png" tvg-name="UK : CBS Action"  group-title="UK - Entertainment",UK : CBS Action
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4876.ts
+#EXTINF:0, tvg-id="ITVBe.uk" tvg-logo="http://149.56.14.45/Logo/2018/yxtywv1435140590.png" tvg-name="UK FHD : ITV BE FHD"  group-title="UK - Entertainment",UK FHD : ITV BE FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9429.ts
+#EXTINF:0, tvg-id="EEntertainment.uk" tvg-logo="http://149.56.14.45/Logo/2018/tyvqqr1433945535.png" tvg-name="UK : E! ENTERTAINMENT"  group-title="UK - Entertainment",UK : E! ENTERTAINMENT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4848.ts
+#EXTINF:0, tvg-id="PickTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/vyvytr1433966130.png" tvg-name="UK : PICK TV"  group-title="UK - Entertainment",UK : PICK TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4794.ts
+#EXTINF:0, tvg-id="VICELAND.uk" tvg-logo="http://149.56.14.45/Logo/2018/3ca2ol1512387963.png" tvg-name="UK : VICELAND"  group-title="UK - Entertainment",UK : VICELAND
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4710.ts
+#EXTINF:0, tvg-id="Really.uk" tvg-logo="http://149.56.14.45/Logo/2018/wrxwtw1433787744.png" tvg-name="UK : REALLY"  group-title="UK - Entertainment",UK : REALLY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4787.ts
+#EXTINF:0, tvg-id="Lifetime.uk" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" tvg-name="UK FHD : LIFETIME FHD"  group-title="UK - Entertainment",UK FHD : LIFETIME FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9428.ts
+#EXTINF:0, tvg-id="Sony Entertainment TV Asia" tvg-logo="http://149.56.14.45/Logo/2018/mcmesl1515810794.png" tvg-name="UK : SONY TV"  group-title="UK - Entertainment",UK : SONY TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4736.ts
+#EXTINF:0, tvg-id="Drama.uk" tvg-logo="http://149.56.14.45/Logo/2018/wswwpq1433524783.png" tvg-name="UK : DRAMA"  group-title="UK - Entertainment",UK : DRAMA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4850.ts
+#EXTINF:0, tvg-id="Sky2.uk" tvg-logo="http://149.56.14.45/Logo/2018/urvutt1433780533.png" tvg-name="UK : SKY TWO"  group-title="UK - Entertainment",UK : SKY TWO
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4738.ts
+#EXTINF:0, tvg-id="RealLives.uk" tvg-logo="http://149.56.14.45/Logo/2018/xuvryx1443639989.png" tvg-name="UK : REAL LIVES"  group-title="UK - Entertainment",UK : REAL LIVES
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4788.ts
+#EXTINF:0, tvg-id="5star.uk" tvg-logo="http://149.56.14.45/Logo/2018/ajhb2b1490440708.png" tvg-name="UK : 5 Star"  group-title="UK - Entertainment",UK : 5 Star
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4912.ts
+#EXTINF:0, tvg-id="TrueEntertainment.uk" tvg-logo="http://149.56.14.45/Logo/2018/yjw3mp1505386821.png" tvg-name="UK : TRUE ENTERTAINMENT"  group-title="UK - Entertainment",UK : TRUE ENTERTAINMENT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4717.ts
+#EXTINF:0, tvg-id="TruTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/cjfprd1515521246.png" tvg-name="UK : TruTV"  group-title="UK - Entertainment",UK : TruTV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4719.ts
+#EXTINF:0, tvg-id="BET.uk" tvg-logo="http://149.56.14.45/Logo/2018/usxvry1434468747.png" tvg-name="UK : BET"  group-title="UK - Entertainment",UK : BET
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4889.ts
+#EXTINF:0, tvg-id="FOX.uk" tvg-logo="http://149.56.14.45/Logo/2018/90ggh91509312656.png" tvg-name="UK HD : FOX HD"  group-title="UK - Entertainment",UK HD : FOX HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4651.ts
+#EXTINF:0, tvg-id="AMC.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : AMC FHD"  group-title="UK - Entertainment",UK FHD : AMC FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/14363.ts
+#EXTINF:0, tvg-id="AMC.uk" tvg-logo="http://149.56.14.45/Logo/2018/stqsyw1433355618.png" tvg-name="UK : AMC"  group-title="UK - Entertainment",UK : AMC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4905.ts
+#EXTINF:0, tvg-id="Home.uk" tvg-logo="http://149.56.14.45/Logo/2018/qxxqyr1433779700.png" tvg-name="UK : HOME"  group-title="UK - Entertainment",UK : HOME
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4828.ts
+#EXTINF:0, tvg-id="Syfy.uk" tvg-logo="http://149.56.14.45/Logo/2018/n261wf1515520491.png" tvg-name="UK HD : SYFY HD"  group-title="UK - Entertainment",UK HD : SYFY HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4596.ts
+#EXTINF:0, tvg-id="E4.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvtprr1443637599.png" tvg-name="UK HD : E4 HD"  group-title="UK - Entertainment",UK HD : E4 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4656.ts
+#EXTINF:0, tvg-id="Universal.uk" tvg-logo="http://149.56.14.45/Logo/2018/wpyvps1434506150.png" tvg-name="UK HD : UNIVERSAL HD"  group-title="UK - Entertainment",UK HD : UNIVERSAL HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4592.ts
+#EXTINF:0, tvg-id="ITV2.uk" tvg-logo="http://149.56.14.45/Logo/2018/xpryxw1442161772.png" tvg-name="UK : ITV2"  group-title="UK - Entertainment",UK : ITV2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4821.ts
+#EXTINF:0, tvg-id="ITV3.uk" tvg-logo="http://149.56.14.45/Logo/2018/wuwupt1433964241.png" tvg-name="UK : ITV3"  group-title="UK - Entertainment",UK : ITV3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4820.ts
+#EXTINF:0, tvg-id="Showcase.uk" tvg-logo="http://149.56.14.45/Logo/2018/wqvqtp1478041726.png" tvg-name="UK : SHOWCASE"  group-title="UK - Entertainment",UK : SHOWCASE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4774.ts
+#EXTINF:0, tvg-id="MTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/yrutpr1433945579.png" tvg-name="UK HD : MTV HD"  group-title="UK - Entertainment",UK HD : MTV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4640.ts
+#EXTINF:0, tvg-id="Sky1.uk" tvg-logo="http://149.56.14.45/Logo/2018/rxpsyu1436174216.png" tvg-name="UK : SKY ONE"  group-title="UK - Entertainment",UK : SKY ONE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4759.ts
+#EXTINF:0, tvg-id="ITV4.uk" tvg-logo="http://149.56.14.45/Logo/2018/cqwp9q1516619275.png" tvg-name="UK : ITV4"  group-title="UK - Entertainment",UK : ITV4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4819.ts
+#EXTINF:0, tvg-id="Channel4.uk" tvg-logo="http://149.56.14.45/Logo/2018/pkzd911514584967.png" tvg-name="UK FHD : CHANNEL 4 FHD"  group-title="UK - Entertainment",UK FHD : CHANNEL 4 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9442.ts
+#EXTINF:0, tvg-id="Channel5.uk" tvg-logo="http://149.56.14.45/Logo/2018/4mh0t01515530497.png" tvg-name="UK FHD : CHANNEL 5 FHD"  group-title="UK - Entertainment",UK FHD : CHANNEL 5 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9441.ts
+#EXTINF:0, tvg-id="Channel5.uk" tvg-logo="http://149.56.14.45/Logo/2018/4mh0t01515530497.png" tvg-name="UK HD : CHANNEL 5 HD"  group-title="UK - Entertainment",UK HD : CHANNEL 5 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4665.ts
+#EXTINF:0, tvg-id="Channel4.uk" tvg-logo="http://149.56.14.45/Logo/2018/pkzd911514584967.png" tvg-name="UK HD : CHANNEL 4 HD"  group-title="UK - Entertainment",UK HD : CHANNEL 4 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4666.ts
+#EXTINF:0, tvg-id="More4.uk" tvg-logo="http://149.56.14.45/Logo/2018/uwpquy1433964372.png" tvg-name="UK HD :  MORE 4 HD"  group-title="UK - Entertainment",UK HD :  MORE 4 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4699.ts
+#EXTINF:0, tvg-id="Lifetime.uk" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" tvg-name="UK HD :  LIFETIME HD"  group-title="UK - Entertainment",UK HD :  LIFETIME HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4700.ts
+#EXTINF:0, tvg-id="DiscoveryDMAX.uk" tvg-logo="http://149.56.14.45/Logo/2018/vyyrrq1480521090.png" tvg-name="UK : DMAX"  group-title="UK - Entertainment",UK : DMAX
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4851.ts
+#EXTINF:0, tvg-id="Alibi.uk" tvg-logo="http://149.56.14.45/Logo/2018/wvusxv1434039040.png" tvg-name="UK HD : ALIBI HD"  group-title="UK - Entertainment",UK HD : ALIBI HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4690.ts
+#EXTINF:0, tvg-id="FoodNetwork.uk" tvg-logo="http://149.56.14.45/Logo/2018/wrrrvu1433970560.png" tvg-name="UK : FOOD NETWORK"  group-title="UK - Entertainment",UK : FOOD NETWORK
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4839.ts
+#EXTINF:0, tvg-id="TravelChannel.uk" tvg-logo="http://149.56.14.45/Logo/2018/vqwxvx1433944819.png" tvg-name="UK : TRAVEL CHANNEL"  group-title="UK - Entertainment",UK : TRAVEL CHANNEL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4720.ts
+#EXTINF:0, tvg-id="GoodFood.uk" tvg-logo="http://149.56.14.45/Logo/2018/rxrtpp1434028376.png" tvg-name="UK HD : GOOD FOOD HD"  group-title="UK - Entertainment",UK HD : GOOD FOOD HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4650.ts
+#EXTINF:0, tvg-id="ForcesTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/sqxqxx1480590534.png" tvg-name="UK : FORCES TV"  group-title="UK - Entertainment",UK : FORCES TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4838.ts
+#EXTINF:0, tvg-id="W.uk" tvg-logo="http://149.56.14.45/Logo/2018/rtsstt1458321410.png" tvg-name="UK FHD : W FHD"  group-title="UK - Entertainment",UK FHD : W FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9393.ts
+#EXTINF:0, tvg-id="W.uk" tvg-logo="http://149.56.14.45/Logo/2018/rtsstt1458321410.png" tvg-name="UK HD : W HD"  group-title="UK - Entertainment",UK HD : W HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4590.ts
+#EXTINF:0, tvg-id="SkyAtlantic.uk" tvg-logo="http://149.56.14.45/Logo/2018/bfki6p1507576319.png" tvg-name="UK HD : SKY ATLANTIC"  group-title="UK - Entertainment",UK HD : SKY ATLANTIC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4624.ts
+#EXTINF:0, tvg-id="SkyArts.uk" tvg-logo="http://149.56.14.45/Logo/2018/8f13fj1507584200.png" tvg-name="UK HD :  SKY ARTS HD"  group-title="UK - Entertainment",UK HD :  SKY ARTS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4698.ts
+#EXTINF:0, tvg-id="Film4.uk" tvg-logo="http://149.56.14.45/Logo/2018/uusryu1433964077.png" tvg-name="UK FHD : FILM 4 FHD"  group-title="UK - Entertainment",UK FHD : FILM 4 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9433.ts
+#EXTINF:0, tvg-id="TCM.uk" tvg-logo="http://149.56.14.45/Logo/2018/ququus1480365662.png" tvg-name="UK FHD : TCM FHD"  group-title="UK - Entertainment",UK FHD : TCM FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9395.ts
+#EXTINF:0, tvg-id="HorrorChannel.uk" tvg-logo="http://149.56.14.45/Logo/2018/wuvvxp1434028136.png" tvg-name="UK : HORROR CHANNEL"  group-title="UK - Entertainment",UK : HORROR CHANNEL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4827.ts
+#EXTINF:0, tvg-id="TrueMovies.uk" tvg-logo="http://149.56.14.45/Logo/2018/6bz59q1504245052.png" tvg-name="UK : TRUE MOVIES"  group-title="UK - Entertainment",UK : TRUE MOVIES
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4716.ts
+#EXTINF:0, tvg-id="Sony Movie Channel" tvg-logo="http://149.56.14.45/Logo/2018/rtprvw1433780935.png" tvg-name="UK : SONY MOVIES"  group-title="UK - Entertainment",UK : SONY MOVIES
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4737.ts
+#EXTINF:0, tvg-id="Movies4Men.uk" tvg-logo="http://149.56.14.45/Logo/2018/vwxqxr1433967636.png" tvg-name="UK : MOVIES 4 MEN"  group-title="UK - Entertainment",UK : MOVIES 4 MEN
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4811.ts
+#EXTINF:0, tvg-id="Movies24.uk" tvg-logo="http://149.56.14.45/Logo/2018/yuuxxy1433964381.png" tvg-name="UK : MOVIES 24"  group-title="UK - Entertainment",UK : MOVIES 24
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4812.ts
+#EXTINF:0, tvg-id="TCM.uk" tvg-logo="http://149.56.14.45/Logo/2018/ququus1480365662.png" tvg-name="UK HD : TCM HD"  group-title="UK - Entertainment",UK HD : TCM HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4595.ts
+#EXTINF:0, tvg-id="Film4.uk" tvg-logo="http://149.56.14.45/Logo/2018/uusryu1433964077.png" tvg-name="UK HD : FILM 4 HD"  group-title="UK - Entertainment",UK HD : FILM 4 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4652.ts
+#EXTINF:0, tvg-id="VH1.uk" tvg-logo="http://149.56.14.45/Logo/2018/xupvyu1433781173.png" tvg-name="UK : VH1"  group-title="UK - Entertainment",UK : VH1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4711.ts
+#EXTINF:0, tvg-id="4Music.uk" tvg-logo="http://149.56.14.45/Logo/2018/xssupr1433779372.png" tvg-name="UK : 4 MUSIC"  group-title="UK - Entertainment",UK : 4 MUSIC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4914.ts
+#EXTINF:0, tvg-id="Vault.uk" tvg-logo="http://149.56.14.45/Logo/2018/y19ryw1512589671.png" tvg-name="UK : THE VAULT"  group-title="UK - Entertainment",UK : THE VAULT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4725.ts
+#EXTINF:0, tvg-id="Scuzz.uk" tvg-logo="http://149.56.14.45/Logo/2018/sxsrrw1482260517.png" tvg-name="UK : SCUZZ"  group-title="UK - Entertainment",UK : SCUZZ
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4777.ts
+#EXTINF:0, tvg-id="VintageTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/wyqyws1470351748.png" tvg-name="UK : VINTAGE TV"  group-title="UK - Entertainment",UK : VINTAGE TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4709.ts
+#EXTINF:0, tvg-id="PremierSports.uk" tvg-logo="http://149.56.14.45/Logo/2018/wpttyu1433780385.png" tvg-name="UK : PREMIER SPORTS"  group-title="UK - Entertainment",UK : PREMIER SPORTS
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4792.ts
+#EXTINF:0, tvg-id="SkyNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/vwwxru1438374081.png" tvg-name="UK HD : SKY NEWS HD"  group-title="UK - Entertainment",UK HD : SKY NEWS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4611.ts
+#EXTINF:0, tvg-id="BloombergTV.us" tvg-logo="Logo N/A" tvg-name="UK HD : Bloomberg HD"  group-title="UK - Entertainment",UK HD : Bloomberg HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4681.ts
+#EXTINF:0, tvg-id="BBCNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/uyvvyq1434039385.png" tvg-name="UK HD : BBC NEWS HD"  group-title="UK - Entertainment",UK HD : BBC NEWS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4684.ts
+#EXTINF:0, tvg-id="CNBC.uk" tvg-logo="http://149.56.14.45/Logo/2018/ywwywr1433963876.png" tvg-name="UK : CNBC"  group-title="UK - Entertainment",UK : CNBC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4867.ts
+#EXTINF:0, tvg-id="CNN.uk" tvg-logo="http://149.56.14.45/Logo/2018/xvyrsu1480337641.png" tvg-name="UK HD : CNN HD"  group-title="UK - Entertainment",UK HD : CNN HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4662.ts
+#EXTINF:0, tvg-id="France24English.fr" tvg-logo="http://149.56.14.45/Logo/2018/upqurr1480590611.png" tvg-name="UK : FRANCE 24 (ENGLISH)"  group-title="UK - Entertainment",UK : FRANCE 24 (ENGLISH)
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4835.ts
+#EXTINF:0, tvg-id="AlJazeeraEnglish.qa" tvg-logo="http://149.56.14.45/Logo/2018/yystpx1433945387.png" tvg-name="UK : AL JAZEERA"  group-title="UK - Entertainment",UK : AL JAZEERA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4907.ts
+#EXTINF:0, tvg-id="SkyNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvvxuq1438374093.png" tvg-name="UK : SKY NEWS"  group-title="UK - Entertainment",UK : SKY NEWS
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4761.ts
+#EXTINF:0, tvg-id="DiscoveryChannel.uk" tvg-logo="http://149.56.14.45/Logo/2018/vyqyyx1467823392.png" tvg-name="UK FHD : DISCOVERY FHD"  group-title="UK - Entertainment",UK FHD : DISCOVERY FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9438.ts
+#EXTINF:0, tvg-id="AnimalPlanet.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvwuvu1433424285.png" tvg-name="UK FHD : ANIMAL PLANET FHD"  group-title="UK - Entertainment",UK FHD : ANIMAL PLANET FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9448.ts
+#EXTINF:0, tvg-id="Eden.uk" tvg-logo="http://149.56.14.45/Logo/2018/wswxsx1480590456.png" tvg-name="UK FHD : EDEN FHD"  group-title="UK - Entertainment",UK FHD : EDEN FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9436.ts
+#EXTINF:0, tvg-id="PBSAmerica.uk" tvg-logo="http://149.56.14.45/Logo/2018/ytswrr1433780328.png" tvg-name="UK : PBS America"  group-title="UK - Entertainment",UK : PBS America
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4795.ts
+#EXTINF:0, tvg-id="Yesterday.uk" tvg-logo="http://149.56.14.45/Logo/2018/sytpwv1433781204.png" tvg-name="UK : YESTERDAY"  group-title="UK - Entertainment",UK : YESTERDAY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4706.ts
+#EXTINF:0, tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : CRIME & INVESTIGATION FHD"  group-title="UK - Entertainment",UK FHD : CRIME & INVESTIGATION FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/14364.ts
+#EXTINF:0, tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="http://149.56.14.45/Logo/2018/rvsyyx1433779447.png" tvg-name="UK HD : CI HD (crime and investigation)"  group-title="UK - Entertainment",UK HD : CI HD (crime and investigation)
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4663.ts
+#EXTINF:0, tvg-id="CrimeAndInvestigationNetwork.uk" tvg-logo="http://149.56.14.45/Logo/2018/rvsyyx1433779447.png" tvg-name="UK : CRIME AND INVESTIGATION"  group-title="UK - Entertainment",UK : CRIME AND INVESTIGATION
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4862.ts
+#EXTINF:0, tvg-id="AnimalPlanet.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvwuvu1433424285.png" tvg-name="UK HD : ANIMAL PLANET HD"  group-title="UK - Entertainment",UK HD : ANIMAL PLANET HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4689.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : INSIGHT UHD"  group-title="UK - Entertainment",UK FHD : INSIGHT UHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15599.ts
+#EXTINF:0, tvg-id="Insight.uk" tvg-logo="Logo N/A" tvg-name="UK HD : INSIGHT UHD"  group-title="UK - Entertainment",UK HD : INSIGHT UHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4647.ts
+#EXTINF:0, tvg-id="Blaze.uk" tvg-logo="http://149.56.14.45/Logo/2018/vy0x1w1499941403.png" tvg-name="UK : BLAZE"  group-title="UK - Entertainment",UK : BLAZE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4887.ts
+#EXTINF:0, tvg-id="BBCNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/wmomfs1515624181.png" tvg-name="UK : BBC News"  group-title="UK - Entertainment",UK : BBC News
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4898.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vtsvsp1480590076.png" tvg-name="UK : TIMES NOW"  group-title="UK - Entertainment",UK : TIMES NOW
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4724.ts
+#EXTINF:0, tvg-id="BBC4.uk" tvg-logo="http://149.56.14.45/Logo/2018/wutpyx1473551889.png" tvg-name="UK HD : BBC HD 4 / CBEEBIES HD"  group-title="UK - Entertainment",UK HD : BBC HD 4 / CBEEBIES HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4685.ts
+#EXTINF:0, tvg-id="Pop.uk" tvg-logo="http://149.56.14.45/Logo/2018/vvprtw1433794811.png" tvg-name="UK : POP"  group-title="UK - Entertainment",UK : POP
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4793.ts
+#EXTINF:0, tvg-id="Cartoonito.uk" tvg-logo="http://149.56.14.45/Logo/2018/vspyvy1433963757.png" tvg-name="UK  : Cartoonito  ( NOT 24H )"  group-title="UK - Entertainment",UK  : Cartoonito  ( NOT 24H )
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4916.ts
+#EXTINF:0, tvg-id="BloombergTV.uk" tvg-logo="Logo N/A" tvg-name="UK : Bloomberg TV"  group-title="UK - Entertainment",UK : Bloomberg TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4886.ts
+#EXTINF:0, tvg-id="Alarabiya.sa" tvg-logo="http://149.56.14.45/Logo/2018/hpf7l21512418962.png" tvg-name="UK : AL ARABIYA NEWS (NOT EN)"  group-title="UK - Entertainment",UK : AL ARABIYA NEWS (NOT EN)
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4908.ts
+#EXTINF:0, tvg-id="BBCOneScotland.uk" tvg-logo="http://149.56.14.45/Logo/uk/BBC_One.png" tvg-name="UK : BBC ONE SCOTLAND"  group-title="UK - Entertainment",UK : BBC ONE SCOTLAND
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4897.ts
+#EXTINF:0, tvg-id="BBCTwoScotland.uk" tvg-logo="Logo N/A" tvg-name="UK : BBC TWO SCOTLAND"  group-title="UK - Entertainment",UK : BBC TWO SCOTLAND
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4895.ts
+#EXTINF:0, tvg-id="BBCRedButton1.uk" tvg-logo="http://149.56.14.45/Logo/2018/stwprw1443634869.png" tvg-name="UK HD : BBC RED BUTTON HD"  group-title="UK - Entertainment",UK HD : BBC RED BUTTON HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4683.ts
+#EXTINF:0, tvg-id="BBCRedButton1.uk" tvg-logo="http://149.56.14.45/Logo/2018/stwprw1443634869.png" tvg-name="UK : BBC RED BUTTON"  group-title="UK - Entertainment",UK : BBC RED BUTTON
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4896.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : NAT GEO FHD"  group-title="UK - Entertainment",UK FHD : NAT GEO FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15593.ts
+#EXTINF:0, tvg-id="AnimalPlanet.uk" tvg-logo="http://149.56.14.45/Logo/2018/xpttwp1433424253.png" tvg-name="UK : ANIMAL PLANET"  group-title="UK - Entertainment",UK : ANIMAL PLANET
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4904.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/tytyxu1444912725.png" tvg-name="UK : EUROSPORT 1"  group-title="UK - Entertainment",UK : EUROSPORT 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4843.ts
+#EXTINF:0, tvg-id="CNN.uk" tvg-logo="http://149.56.14.45/Logo/2018/uyswus1433941237.png" tvg-name="UK : CNN"  group-title="UK - Entertainment",UK : CNN
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4866.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vspsqp1444912735.png" tvg-name="UK : EUROSPORT 2"  group-title="UK - Entertainment",UK : EUROSPORT 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4842.ts
+#EXTINF:0, tvg-id="MTV Live" tvg-logo="http://149.56.14.45/Logo/2018/sswwqv1433779263.png" tvg-name="UK FHD : MTV LIVE FHD"  group-title="UK - Entertainment",UK FHD : MTV LIVE FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9425.ts
+#EXTINF:0, tvg-id="TCM.uk" tvg-logo="http://149.56.14.45/Logo/2018/utrttv1433781041.png" tvg-name="UK : TCM"  group-title="UK - Entertainment",UK : TCM
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4727.ts
+#EXTINF:0, tvg-id="Sky1.uk" tvg-logo="http://149.56.14.45/Logo/2018/uywwsu1433964902.png" tvg-name="UK FHD : SKY 1 FHD"  group-title="UK - Entertainment",UK FHD : SKY 1 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9407.ts
+#EXTINF:0, tvg-id="Sky1.uk" tvg-logo="http://149.56.14.45/Logo/2018/wxuutv1436174225.png" tvg-name="UK HD : SKY 1 HD"  group-title="UK - Entertainment",UK HD : SKY 1 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4625.ts
+#EXTINF:0, tvg-id="MTVMusic.uk" tvg-logo="http://149.56.14.45/Logo/2018/sswwqv1433779263.png" tvg-name="UK HD : MTV LIVE HD"  group-title="UK - Entertainment",UK HD : MTV LIVE HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4639.ts
+#EXTINF:0, tvg-id="3e.ie" tvg-logo="http://149.56.14.45/Logo/2018/ytxqwq1433781263.png" tvg-name="UK HD : 3E HD"  group-title="UK - Entertainment",UK HD : 3E HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4691.ts
+#EXTINF:0, tvg-id="CBBC.uk" tvg-logo="http://149.56.14.45/Logo/2018/tstxpx1461447256.png" tvg-name="UK HD : BBC CBBC HD"  group-title="UK - Entertainment",UK HD : BBC CBBC HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4688.ts
+#EXTINF:0, tvg-id="ITV3.uk" tvg-logo="Logo N/A" tvg-name="UK HD : BE3 HD"  group-title="UK - Entertainment",UK HD : BE3 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4682.ts
+#EXTINF:0, tvg-id="ChelseaTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/mq89bf1504260446.png" tvg-name="UK HD : CHELSEA TV HD"  group-title="UK - Entertainment",UK HD : CHELSEA TV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4664.ts
+#EXTINF:0, tvg-id="ComedyCentral.uk" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" tvg-name="UK FHD : COMEDY CENTRAL FHD"  group-title="UK - Entertainment",UK FHD : COMEDY CENTRAL FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9440.ts
+#EXTINF:0, tvg-id="ComedyCentralExtra.uk" tvg-logo="http://149.56.14.45/Logo/2018/swxups1433777311.png" tvg-name="UK : COMEDY CENTRAL EXTRA"  group-title="UK - Entertainment",UK : COMEDY CENTRAL EXTRA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4863.ts
+#EXTINF:0, tvg-id="ComedyCentral.uk" tvg-logo="http://149.56.14.45/Logo/2018/ywxrqy1443637497.png" tvg-name="UK HD : COMEDY CENTRAL HD"  group-title="UK - Entertainment",UK HD : COMEDY CENTRAL HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4660.ts
+#EXTINF:0, tvg-id="ComedyCentral.uk" tvg-logo="http://149.56.14.45/Logo/2018/znxqgs1515064693.png" tvg-name="UK : COMEDY CENTRAL"  group-title="UK - Entertainment",UK : COMEDY CENTRAL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4864.ts
+#EXTINF:0, tvg-id="SkyLiving.uk" tvg-logo="http://149.56.14.45/Logo/2018/uqwpyu1434040374.png" tvg-name="UK HD : SKY LIVING HD"  group-title="UK - Entertainment",UK HD : SKY LIVING HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4623.ts
+#EXTINF:0, tvg-id="SkyLiving.uk" tvg-logo="http://149.56.14.45/Logo/2018/stqvqv1433964882.png" tvg-name="UK : SKY LIVING"  group-title="UK - Entertainment",UK : SKY LIVING
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4767.ts
+#EXTINF:0, tvg-id="Eden.uk" tvg-logo="http://149.56.14.45/Logo/2018/wswxsx1480590456.png" tvg-name="UK HD : EDEN HD"  group-title="UK - Entertainment",UK HD : EDEN HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4655.ts
+#EXTINF:0, tvg-id="ITVBe.uk" tvg-logo="http://149.56.14.45/Logo/2018/yxtywv1435140590.png" tvg-name="UK HD : ITV BE HD"  group-title="UK - Entertainment",UK HD : ITV BE HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4646.ts
+#EXTINF:0, tvg-id="LiverpoolFCTV.uk" tvg-logo="Logo N/A" tvg-name="UK HD : Liverpool FC TV HD"  group-title="UK - Entertainment",UK HD : Liverpool FC TV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4641.ts
+#EXTINF:0, tvg-id="RTUS.ru" tvg-logo="Logo N/A" tvg-name="UK HD : RT America HD"  group-title="UK - Entertainment",UK HD : RT America HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4632.ts
+#EXTINF:0, tvg-id="RTDocEnglish.ru" tvg-logo="Logo N/A" tvg-name="UK HD : RT DOCUMENTRY HD"  group-title="UK - Entertainment",UK HD : RT DOCUMENTRY HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4631.ts
+#EXTINF:0, tvg-id="RTInternational.ru" tvg-logo="http://149.56.14.45/Logo/2018/qywxss1477939997.png" tvg-name="UK HD : RT NEWS HD"  group-title="UK - Entertainment",UK HD : RT NEWS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4630.ts
+#EXTINF:0, tvg-id="RTUK.ru" tvg-logo="Logo N/A" tvg-name="UK HD : RT UK HD"  group-title="UK - Entertainment",UK HD : RT UK HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4629.ts
+#EXTINF:0, tvg-id="RTEOne.ie" tvg-logo="http://149.56.14.45/Logo/2018/qytrpw1458515339.png" tvg-name="UK HD : RTE ONE HD"  group-title="UK - Entertainment",UK HD : RTE ONE HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4628.ts
+#EXTINF:0, tvg-id="RTETwo.ie" tvg-logo="http://149.56.14.45/Logo/2018/qwwtrv1458515366.png" tvg-name="UK HD : RTE TWO  HD"  group-title="UK - Entertainment",UK HD : RTE TWO  HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4627.ts
+#EXTINF:0, tvg-id="TG4.ie" tvg-logo="Logo N/A" tvg-name="UK FHD : TG 4 FHD"  group-title="UK - Entertainment",UK FHD : TG 4 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/14365.ts
+#EXTINF:0, tvg-id="TG4.ie" tvg-logo="http://149.56.14.45/Logo/2018/wvvywy1433965428.png" tvg-name="UK HD : TG4 HD"  group-title="UK - Entertainment",UK HD : TG4 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4594.ts
+#EXTINF:0, tvg-id="TV3.ie" tvg-logo="Logo N/A" tvg-name="UK HD : TV 3 HD"  group-title="UK - Entertainment",UK HD : TV 3 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4593.ts
+#EXTINF:0, tvg-id="UTV" tvg-logo="Logo N/A" tvg-name="UK HD : UTV HD"  group-title="UK - Entertainment",UK HD : UTV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4591.ts
+#EXTINF:0, tvg-id="ITVBe.uk" tvg-logo="http://149.56.14.45/Logo/2018/yuyutr1435140519.png" tvg-name="UK : ITV BE"  group-title="UK - Entertainment",UK : ITV BE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4825.ts
+#EXTINF:0, tvg-id="Universal.uk" tvg-logo="http://149.56.14.45/Logo/2018/a5293l1515065704.png" tvg-name="UK : Universal Channel"  group-title="UK - Entertainment",UK : Universal Channel
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4713.ts
+#EXTINF:0, tvg-id="Spike.uk" tvg-logo="http://149.56.14.45/Logo/2018/64igbf1512587870.png" tvg-name="UK : SPIKE UK"  group-title="UK - Entertainment",UK : SPIKE UK
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4735.ts
+#EXTINF:0, tvg-id="FiveUSA.uk" tvg-logo="http://149.56.14.45/Logo/2018/stqqrr1467822842.png" tvg-name="UK : 5 USA"  group-title="UK - Entertainment",UK : 5 USA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4911.ts
+#EXTINF:0, tvg-id="TrueCrime.uk" tvg-logo="http://149.56.14.45/Logo/2018/s4v66i1486463373.png" tvg-name="UK : TRUE CRIME"  group-title="UK - Entertainment",UK : TRUE CRIME
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4718.ts
+#EXTINF:0, tvg-id="TrueCrime.uk" tvg-logo="http://149.56.14.45/Logo/2018/s4v66i1486463373.png" tvg-name="UK: True Crime"  group-title="UK - Entertainment",UK: True Crime
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4589.ts
+#EXTINF:0, tvg-id="FOX.uk" tvg-logo="http://149.56.14.45/Logo/2018/wrtvuu1433779586.png" tvg-name="UK : FOX"  group-title="UK - Entertainment",UK : FOX
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4837.ts
+#EXTINF:0, tvg-id="Syfy.uk" tvg-logo="http://149.56.14.45/Logo/2018/8vfxi01515520586.png" tvg-name="UK : SYFY"  group-title="UK - Entertainment",UK : SYFY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4728.ts
+#EXTINF:0, tvg-id="Dave.uk" tvg-logo="http://149.56.14.45/Logo/2018/uwpwpy1434017403.png" tvg-name="UK FHD : DAVE FHD"  group-title="UK - Entertainment",UK FHD : DAVE FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9439.ts
+#EXTINF:0, tvg-id="Dave.uk" tvg-logo="http://149.56.14.45/Logo/2018/uwpwpy1434017403.png" tvg-name="UK HD : DAVE HD"  group-title="UK - Entertainment",UK HD : DAVE HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4659.ts
+#EXTINF:0, tvg-id="Dave.uk" tvg-logo="http://149.56.14.45/Logo/2018/yqxptq1433524292.png" tvg-name="UK : DAVE"  group-title="UK - Entertainment",UK : DAVE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4861.ts
+#EXTINF:0, tvg-id="More4.uk" tvg-logo="http://149.56.14.45/Logo/2018/vtsqyq1433964354.png" tvg-name="UK : More4"  group-title="UK - Entertainment",UK : More4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4814.ts
+#EXTINF:0, tvg-id="Alibi.uk" tvg-logo="http://149.56.14.45/Logo/2018/yuxsxy1434039031.png" tvg-name="UK : ALIBI"  group-title="UK - Entertainment",UK : ALIBI
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4906.ts
+#EXTINF:0, tvg-id="GoodFood.uk" tvg-logo="http://149.56.14.45/Logo/2018/truwtt1433964123.png" tvg-name="UK : GOOD FOOD"  group-title="UK - Entertainment",UK : GOOD FOOD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4831.ts
+#EXTINF:0, tvg-id="SkyAction.uk" tvg-logo="http://149.56.14.45/Logo/2018/rnao291496715151.png" tvg-name="UK : SKY ACTION"  group-title="UK - Entertainment",UK : SKY ACTION
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4772.ts
+#EXTINF:0, tvg-id="SkyArts.uk" tvg-logo="http://149.56.14.45/Logo/2018/qtrvrv1434040216.png" tvg-name="UK : SKY ARTS"  group-title="UK - Entertainment",UK : SKY ARTS
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4771.ts
+#EXTINF:0, tvg-id="SkyComedy.uk" tvg-logo="http://149.56.14.45/Logo/2018/3ql76p1489872065.png" tvg-name="UK : SKY COMEDY"  group-title="UK - Entertainment",UK : SKY COMEDY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4770.ts
+#EXTINF:0, tvg-id="SkyDisney.uk" tvg-logo="http://149.56.14.45/Logo/2018/wrxwtw1433965123.png" tvg-name="UK : SKY DISNEY"  group-title="UK - Entertainment",UK : SKY DISNEY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4769.ts
+#EXTINF:0, tvg-id="SkyFamily.uk" tvg-logo="http://149.56.14.45/Logo/2018/qsyrrq1433965141.png" tvg-name="UK : SKY FAMILY"  group-title="UK - Entertainment",UK : SKY FAMILY
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4768.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vxywws1433964062.png" tvg-name="UK : Film 4"  group-title="UK - Entertainment",UK : Film 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4841.ts
+#EXTINF:0, tvg-id="True Movies 2" tvg-logo="http://www.thelogodb.com/images/media/logo/cuxgbq1500175784.png/small" tvg-name="UK : TRUE MOVIES 2"  group-title="UK - Entertainment",UK : TRUE MOVIES 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4715.ts
+#EXTINF:0, tvg-id="3e.ie" tvg-logo="http://149.56.14.45/Logo/2018/ytxqwq1433781263.png" tvg-name="UK : 3E"  group-title="UK - Entertainment",UK : 3E
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4915.ts
+#EXTINF:0, tvg-id="4Seven.uk" tvg-logo="http://149.56.14.45/Logo/2018/tqyxsy1482271659.png" tvg-name="UK : 4 SEVEN"  group-title="UK - Entertainment",UK : 4 SEVEN
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4913.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/urysws1433940934.png" tvg-name="UK : BBC3"  group-title="UK - Entertainment",UK : BBC3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4891.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/sutxrw1480458109.png" tvg-name="UK : CHANNEL 4"  group-title="UK - Entertainment",UK : CHANNEL 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4871.ts
+#EXTINF:0, tvg-id="Channel5.uk" tvg-logo="http://149.56.14.45/Logo/2018/h86hcg1515530365.png" tvg-name="UK : Channel 5"  group-title="UK - Entertainment",UK : Channel 5
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4870.ts
+#EXTINF:0, tvg-id="ChartShow.uk" tvg-logo="Logo N/A" tvg-name="UK : CHART SHOW DANCE"  group-title="UK - Entertainment",UK : CHART SHOW DANCE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4869.ts
+#EXTINF:0, tvg-id="ChelseaTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/mq89bf1504260446.png" tvg-name="UK : CHELSEA TV"  group-title="UK - Entertainment",UK : CHELSEA TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4868.ts
+#EXTINF:0, tvg-id="E4.uk" tvg-logo="http://149.56.14.45/Logo/2018/qvtprr1443637599.png" tvg-name="UK : E4"  group-title="UK - Entertainment",UK : E4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4847.ts
+#EXTINF:0, tvg-id="EirSport1.ie" tvg-logo="Logo N/A" tvg-name="UK : EIR SPORTS 1"  group-title="UK - Entertainment",UK : EIR SPORTS 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4845.ts
+#EXTINF:0, tvg-id="EirSport2.ie" tvg-logo="Logo N/A" tvg-name="UK : EIR SPORTS 2"  group-title="UK - Entertainment",UK : EIR SPORTS 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4844.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/qstwqv1433778873.png" tvg-name="UK : GEO NEWS INTERNATIONAL"  group-title="UK - Entertainment",UK : GEO NEWS INTERNATIONAL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4834.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/qstwqv1433778873.png" tvg-name="UK : GEO TV"  group-title="UK - Entertainment",UK : GEO TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4833.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : HISTORY FHD"  group-title="UK - Entertainment",UK FHD : HISTORY FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15600.ts
+#EXTINF:0, tvg-id="ITVBorder.uk" tvg-logo="Logo N/A" tvg-name="UK : ITV BORDER"  group-title="UK - Entertainment",UK : ITV BORDER
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4824.ts
+#EXTINF:0, tvg-id="ITVTyneTees.uk" tvg-logo="Logo N/A" tvg-name="UK : ITV Tyne Tees N"  group-title="UK - Entertainment",UK : ITV Tyne Tees N
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4823.ts
+#EXTINF:0, tvg-id="ITV1Anglia.uk" tvg-logo="http://149.56.14.45/Logo/2018/wuwxss1433965997.png" tvg-name="UK : ITV1"  group-title="UK - Entertainment",UK : ITV1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4822.ts
+#EXTINF:0, tvg-id="Kix.uk" tvg-logo="http://149.56.14.45/Logo/2018/qusxvp1470336719.png" tvg-name="UK : KIX"  group-title="UK - Entertainment",UK : KIX
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4817.ts
+#EXTINF:0, tvg-id="LiverpoolFCTV.uk" tvg-logo="Logo N/A" tvg-name="UK : Liverpool FC TV"  group-title="UK - Entertainment",UK : Liverpool FC TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4816.ts
+#EXTINF:0, tvg-id="Lifetime.uk" tvg-logo="http://149.56.14.45/Logo/2018/vvtpys1433779816.png" tvg-name="UK : LIFETIME"  group-title="UK - Entertainment",UK : LIFETIME
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4815.ts
+#EXTINF:0, tvg-id="MotorsTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/6mn8pk1515367247.png" tvg-name="UK : MOTORS TV"  group-title="UK - Entertainment",UK : MOTORS TV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4813.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : MUTV FHD"  group-title="UK - Entertainment",UK FHD : MUTV FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15594.ts
+#EXTINF:0, tvg-id="MUTV.uk" tvg-logo="http://149.56.14.45/Logo/2018/rpxxqy1433779967.png" tvg-name="UK HD : MUTV HD"  group-title="UK - Entertainment",UK HD : MUTV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4638.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/rpxxqy1433779967.png" tvg-name="UK : MUTV"  group-title="UK - Entertainment",UK : MUTV
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4803.ts
+#EXTINF:0, tvg-id="RTInternational.ru" tvg-logo="http://149.56.14.45/Logo/2018/qywxss1477939997.png" tvg-name="UK : RT News HD"  group-title="UK - Entertainment",UK : RT News HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4784.ts
+#EXTINF:0, tvg-id="RTEJr.ie" tvg-logo="Logo N/A" tvg-name="UK : RTE JUNIOR"  group-title="UK - Entertainment",UK : RTE JUNIOR
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4783.ts
+#EXTINF:0, tvg-id="RTENewsNow.ie" tvg-logo="http://149.56.14.45/Logo/2018/usyxyr1443897868.png" tvg-name="UK : RTE NEWS"  group-title="UK - Entertainment",UK : RTE NEWS
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4782.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/sysrru1458515319.png" tvg-name="UK : RTE ONE"  group-title="UK - Entertainment",UK : RTE ONE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4781.ts
+#EXTINF:0, tvg-id="RTETwo.ie" tvg-logo="http://149.56.14.45/Logo/2018/qwwtrv1458515366.png" tvg-name="UK : RTE TWO"  group-title="UK - Entertainment",UK : RTE TWO
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4780.ts
+#EXTINF:0, tvg-id="S4C" tvg-logo="http://149.56.14.45/Logo/2018/sswpuw1434029048.png" tvg-name="UK : S4C DIGIDOL"  group-title="UK - Entertainment",UK : S4C DIGIDOL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4779.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/sxrxyw1435094650.png" tvg-name="UK : SET MAX"  group-title="UK - Entertainment",UK : SET MAX
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4775.ts
+#EXTINF:0, tvg-id="SkyNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/vwwxru1438374081.png" tvg-name="UK : SKY  NEWS IRELAND"  group-title="UK - Entertainment",UK : SKY  NEWS IRELAND
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4773.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vwwxru1438374081.png" tvg-name="UK : SKY NEWS IRELAND"  group-title="UK - Entertainment",UK : SKY NEWS IRELAND
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4760.ts
+#EXTINF:0, tvg-id="SkySelect.uk" tvg-logo="http://149.56.14.45/Logo/2018/o8gxql1489873877.png" tvg-name="UK : SKY SELECT"  group-title="UK - Entertainment",UK : SKY SELECT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4758.ts
+#EXTINF:0, tvg-id="SkyCrimeThriller.uk" tvg-logo="http://149.56.14.45/Logo/2018/xpvytr1473881752.png" tvg-name="UK : SKY THRILLER"  group-title="UK - Entertainment",UK : SKY THRILLER
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4739.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK FHD : STV HD"  group-title="UK - Entertainment",UK FHD : STV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/15569.ts
+#EXTINF:0, tvg-id="STV.uk" tvg-logo="Logo N/A" tvg-name="UK HD : STV HD"  group-title="UK - Entertainment",UK HD : STV HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4597.ts
+#EXTINF:0, tvg-id="STV.uk" tvg-logo="Logo N/A" tvg-name="UK : STV 2"  group-title="UK - Entertainment",UK : STV 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4729.ts
+#EXTINF:0, tvg-id="TG4.ie" tvg-logo="http://149.56.14.45/Logo/2018/rqxuyw1434035590.png" tvg-name="UK : TG4"  group-title="UK - Entertainment",UK : TG4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4726.ts
+#EXTINF:0, tvg-id="TV3.ie" tvg-logo="Logo N/A" tvg-name="UK : TV 3"  group-title="UK - Entertainment",UK : TV 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4714.ts
+#EXTINF:0, tvg-id="Viva.uk" tvg-logo="http://149.56.14.45/Logo/2018/wwwvsv1434028604.png" tvg-name="UK : VIVA UK"  group-title="UK - Entertainment",UK : VIVA UK
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4708.ts
+#EXTINF:0, tvg-id="W.uk" tvg-logo="http://149.56.14.45/Logo/2018/xprxww1433788531.png" tvg-name="UK : WATCH"  group-title="UK - Entertainment",UK : WATCH
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4707.ts
+#EXTINF:0, tvg-id="Eden.uk" tvg-logo="http://149.56.14.45/Logo/2018/uuqsqx1433523740.png" tvg-name="UK : EDEN"  group-title="UK - Entertainment",UK : EDEN
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4846.ts
+#EXTINF:0, tvg-id="SkyArts.uk" tvg-logo="http://149.56.14.45/Logo/2018/8f13fj1507584200.png" tvg-name="UK FHD : SKY ARTS FHD"  group-title="UK - Entertainment",UK FHD : SKY ARTS FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9421.ts
+#EXTINF:0, tvg-id="SkyLiving.uk" tvg-logo="http://149.56.14.45/Logo/2018/uqwpyu1434040374.png" tvg-name="UK FHD : SKY LIVING FHD"  group-title="UK - Entertainment",UK FHD : SKY LIVING FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9419.ts
+#EXTINF:0, tvg-id="CartoonNetwork.uk" tvg-logo="http://149.56.14.45/Logo/2018/tlu8851507589002.png" tvg-name="UK HD : CARTOON NETWORK HD"  group-title="UK - Entertainment",UK HD : CARTOON NETWORK HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4667.ts
+#EXTINF:0, tvg-id="PremierSports.uk" tvg-logo="http://149.56.14.45/Logo/2018/wpttyu1433780385.png" tvg-name="UK HD : PREMIER SPORTS HD"  group-title="UK - Entertainment",UK HD : PREMIER SPORTS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4634.ts
+#EXTINF:0, tvg-id="Eurosport1.uk" tvg-logo="http://149.56.14.45/Logo/2018/ttysyr1444900315.png" tvg-name="UK HD : EUROSPORTS HD"  group-title="UK - Entertainment",UK HD : EUROSPORTS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4654.ts
+#EXTINF:0, tvg-id="Eurosport2.uk" tvg-logo="http://149.56.14.45/Logo/2018/vysrvq1444899758.png" tvg-name="UK HD : EUROSPORTS HD 2"  group-title="UK - Entertainment",UK HD : EUROSPORTS HD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4653.ts
+#EXTINF:0, tvg-id="BTSportX5.uk" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" tvg-name="UK HD : BT SPORTS EXTRA 5"  group-title="UK - Entertainment",UK HD : BT SPORTS EXTRA 5
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4668.ts
+#EXTINF:0, tvg-id="BTSportX4.uk" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" tvg-name="UK HD : BT SPORTS EXTRA 4"  group-title="UK - Entertainment",UK HD : BT SPORTS EXTRA 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4669.ts
+#EXTINF:0, tvg-id="BTSportX3.uk" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" tvg-name="UK HD : BT SPORTS EXTRA 3"  group-title="UK - Entertainment",UK HD : BT SPORTS EXTRA 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4670.ts
+#EXTINF:0, tvg-id="BTSportX2.uk" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" tvg-name="UK HD : BT SPORTS EXTRA 2"  group-title="UK - Entertainment",UK HD : BT SPORTS EXTRA 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4671.ts
+#EXTINF:0, tvg-id="BTSportX1.uk" tvg-logo="http://149.56.14.45/Logo/2018/stxpwq1433361453.png" tvg-name="UK HD : BT SPORTS EXTRA"  group-title="UK - Entertainment",UK HD : BT SPORTS EXTRA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4672.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/wysstw1434038860.png" tvg-name="UK : BT SPORTS MOSAIC"  group-title="UK - Entertainment",UK : BT SPORTS MOSAIC
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4878.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/brpeb81512993614.png" tvg-name="UK : BT SPORTS 3"  group-title="UK - Entertainment",UK : BT SPORTS 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4879.ts
+#EXTINF:0, tvg-id="BTSport2.uk" tvg-logo="http://149.56.14.45/Logo/2018/vwxvty1433360911.png" tvg-name="UK : BT SPORTS 2"  group-title="UK - Entertainment",UK : BT SPORTS 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4880.ts
+#EXTINF:0, tvg-id="BTSport1.uk" tvg-logo="http://149.56.14.45/Logo/2018/ruprqp1433360902.png" tvg-name="UK : BT SPORTS 1"  group-title="UK - Entertainment",UK : BT SPORTS 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4881.ts
+#EXTINF:0, tvg-id="BTSport3.uk" tvg-logo="http://149.56.14.45/Logo/2018/j1babk1512993780.png" tvg-name="UK HD : BT SPORTS HD 3"  group-title="UK - Entertainment",UK HD : BT SPORTS HD 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4673.ts
+#EXTINF:0, tvg-id="BTSport2.uk" tvg-logo="http://149.56.14.45/Logo/2018/vsuvvu1433963716.png" tvg-name="UK HD : BT SPORTS HD 2"  group-title="UK - Entertainment",UK HD : BT SPORTS HD 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4674.ts
+#EXTINF:0, tvg-id="BTSport1.uk" tvg-logo="http://149.56.14.45/Logo/2018/yqvvvx1433963709.png" tvg-name="UK HD : BT SPORTS HD 1"  group-title="UK - Entertainment",UK HD : BT SPORTS HD 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4675.ts
+#EXTINF:0, tvg-id="BTSportESPN.uk" tvg-logo="http://149.56.14.45/Logo/2018/xstwys1438373796.png" tvg-name="UK FHD : BT Sports ESPN FHD"  group-title="UK - Entertainment",UK FHD : BT Sports ESPN FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9444.ts
+#EXTINF:0, tvg-id="BTSport3.uk" tvg-logo="http://149.56.14.45/Logo/2018/j1babk1512993780.png" tvg-name="UK FHD : BT Sports 3 FHD"  group-title="UK - Entertainment",UK FHD : BT Sports 3 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9445.ts
+#EXTINF:0, tvg-id="BTSport2.uk" tvg-logo="http://149.56.14.45/Logo/2018/vsuvvu1433963716.png" tvg-name="UK FHD : BT Sports 2 FHD"  group-title="UK - Entertainment",UK FHD : BT Sports 2 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9446.ts
+#EXTINF:0, tvg-id="BTSport1.uk" tvg-logo="http://149.56.14.45/Logo/2018/yqvvvx1433963709.png" tvg-name="UK FHD : BT Sports 1 FHD"  group-title="UK - Entertainment",UK FHD : BT Sports 1 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9447.ts
+#EXTINF:0, tvg-id="BTSport1.uk" tvg-logo="Logo N/A" tvg-name="-= BT Sports =-"  group-title="UK - Entertainment",-= BT Sports =-
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4918.ts
+#EXTINF:0, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="http://149.56.14.45/Logo/2018/7e2lv21502554825.png" tvg-name="UK : SKY SPORTS PREMIER LEAGUE"  group-title="UK - Entertainment",UK : SKY SPORTS PREMIER LEAGUE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4740.ts
+#EXTINF:0, tvg-id="SkySportsMainEvent.uk" tvg-logo="http://149.56.14.45/Logo/2018/mp44981502554837.png" tvg-name="UK : SKY SPORTS MAIN EVENT"  group-title="UK - Entertainment",UK : SKY SPORTS MAIN EVENT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4741.ts
+#EXTINF:0, tvg-id="SkySportsGolf.uk" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" tvg-name="UK : SKY SPORTS GOLF (THE OPEN)"  group-title="UK - Entertainment",UK : SKY SPORTS GOLF (THE OPEN)
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4742.ts
+#EXTINF:0, tvg-id="SkySportsFootball.uk" tvg-logo="Logo N/A" tvg-name="UK : SKY SPORTS FOOTBALL"  group-title="UK - Entertainment",UK : SKY SPORTS FOOTBALL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4743.ts
+#EXTINF:0, tvg-id="SkySportsF1.uk" tvg-logo="http://149.56.14.45/Logo/2018/rqqxvx1433965320.png" tvg-name="UK : SKY SPORTS F1"  group-title="UK - Entertainment",UK : SKY SPORTS F1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4744.ts
+#EXTINF:0, tvg-id="SkySportsCricket.uk" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" tvg-name="UK : SKY SPORTS CRICKET"  group-title="UK - Entertainment",UK : SKY SPORTS CRICKET
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4745.ts
+#EXTINF:0, tvg-id="SkySportsArena.uk" tvg-logo="Logo N/A" tvg-name="UK : SKY SPORTS ARENA"  group-title="UK - Entertainment",UK : SKY SPORTS ARENA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4747.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/oz7hkn1507449954.png" tvg-name="UK : SKY SPORTS ACTIVE 8"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 8
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4748.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="UK : SKY SPORTS ACTIVE 7"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 7
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4749.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/28uj081507450054.png" tvg-name="UK : SKY SPORTS ACTIVE 6"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 6
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4750.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/vvuuwv1434037856.png" tvg-name="UK : SKY SPORTS ACTIVE 5"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 5
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4751.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/upttvq1434037824.png" tvg-name="UK : SKY SPORTS ACTIVE 4"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 4
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4752.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/xryrwr1434037817.png" tvg-name="UK : SKY SPORTS ACTIVE 3"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 3
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4753.ts
+#EXTINF:0, tvg-id="Sky Sports 2" tvg-logo="http://149.56.14.45/Logo/2018/ysrvxq1434037809.png" tvg-name="UK : SKY SPORTS ACTIVE 2"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 2
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4754.ts
+#EXTINF:0, tvg-id="Sky Sports 1" tvg-logo="http://149.56.14.45/Logo/2018/qsywts1434037798.png" tvg-name="UK : SKY SPORTS ACTIVE 1"  group-title="UK - Entertainment",UK : SKY SPORTS ACTIVE 1
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4755.ts
+#EXTINF:0, tvg-id="SkySportsAction.uk" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" tvg-name="UK : SKY SPORTS ACTION"  group-title="UK - Entertainment",UK : SKY SPORTS ACTION
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4756.ts
+#EXTINF:0, tvg-id="SkySportsNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/sxwwxv1433780905.png" tvg-name="UK : SKY SPORTS  NEWS"  group-title="UK - Entertainment",UK : SKY SPORTS  NEWS
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4757.ts
+#EXTINF:0, tvg-id="SkySportsNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/qttxwy1438374067.png" tvg-name="UK HD : SKY SPORTS NEWS HD"  group-title="UK - Entertainment",UK HD : SKY SPORTS NEWS HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4598.ts
+#EXTINF:0, tvg-id="SkySportsMainEvent.uk" tvg-logo="http://149.56.14.45/Logo/2018/mp44981502554837.png" tvg-name="UK HD : SKY SPORTS HD MAIN EVENT"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD MAIN EVENT
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4599.ts
+#EXTINF:0, tvg-id="SkySportsFootball.uk" tvg-logo="Logo N/A" tvg-name="UK HD : SKY SPORTS HD FOOTBALL"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD FOOTBALL
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4600.ts
+#EXTINF:0, tvg-id="SkySportsCricket.uk" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" tvg-name="UK HD : SKY SPORTS HD CRICKET"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD CRICKET
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4601.ts
+#EXTINF:0, tvg-id="SkySportsArena.uk" tvg-logo="Logo N/A" tvg-name="UK HD : SKY SPORTS HD ARENA"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD ARENA
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4602.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" tvg-name="UK HD : SKY SPORTS HD ACTION"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD ACTION
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4603.ts
+#EXTINF:0, tvg-id="SkySportsF1.uk" tvg-logo="http://149.56.14.45/Logo/2018/nj0lf61502555096.png" tvg-name="UK HD : SKY SPORTS  F1 HD"  group-title="UK - Entertainment",UK HD : SKY SPORTS  F1 HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4610.ts
+#EXTINF:0, tvg-id="SkySportsMix.uk" tvg-logo="Logo N/A" tvg-name="UK HD : SKY SPORTS MIX HD"  group-title="UK - Entertainment",UK HD : SKY SPORTS MIX HD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4693.ts
+#EXTINF:0, tvg-id="SkySportsGolf.uk" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" tvg-name="UK HD : SKY SPORTS HD GOLF (THE OPEN)"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD GOLF (THE OPEN)
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4695.ts
+#EXTINF:0, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="http://149.56.14.45/Logo/2018/7e2lv21502554825.png" tvg-name="UK HD : SKY SPORTS HD PREMIER LEAGUE"  group-title="UK - Entertainment",UK HD : SKY SPORTS HD PREMIER LEAGUE
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/4694.ts
+#EXTINF:0, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="http://149.56.14.45/Logo/2018/7e2lv21502554825.png" tvg-name="UK FHD : SKY SPORTS PREMIER LEAGUE FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS PREMIER LEAGUE FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9397.ts
+#EXTINF:0, tvg-id="SkySportsNews.uk" tvg-logo="http://149.56.14.45/Logo/2018/qttxwy1438374067.png" tvg-name="UK FHD : SKY SPORTS NEWS FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS NEWS FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9398.ts
+#EXTINF:0, tvg-id="SkySportsMix.uk" tvg-logo="http://www.thelogodb.com/images/media/logo/r2lhcf1501989097.png" tvg-name="UK FHD : SKY SPORTS MIX FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS MIX FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9399.ts
+#EXTINF:0, tvg-id="SkySportsMainEvent.uk" tvg-logo="http://149.56.14.45/Logo/2018/mp44981502554837.png" tvg-name="UK FHD : SKY SPORTS MAIN EVENT FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS MAIN EVENT FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9400.ts
+#EXTINF:0, tvg-id="SkySportsGolf.uk" tvg-logo="http://149.56.14.45/Logo/2018/ae6hgo1510074664.png" tvg-name="UK FHD : SKY SPORTS GOLF FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS GOLF FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9401.ts
+#EXTINF:0, tvg-id="SkySportsFootball.uk" tvg-logo="http://www.thelogodb.com/images/media/logo/lnd1p01502554851.png" tvg-name="UK FHD : Sky SPORTS FOOTBALL FHD"  group-title="UK - Entertainment",UK FHD : Sky SPORTS FOOTBALL FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9402.ts
+#EXTINF:0, tvg-id="SkySportsF1.uk" tvg-logo="http://149.56.14.45/Logo/2018/nj0lf61502555096.png" tvg-name="UK FHD : SKY SPORTS F1 FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS F1 FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9403.ts
+#EXTINF:0, tvg-id="SkySportsCricket.uk" tvg-logo="http://149.56.14.45/Logo/2018/47d7os1502554865.png" tvg-name="UK FHD : SKY SPORTS CRICKET FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS CRICKET FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9404.ts
+#EXTINF:0, tvg-id="SkySportsArena.uk" tvg-logo="Logo N/A" tvg-name="UK FHD : SKY SPORTS ARENA FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS ARENA FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9405.ts
+#EXTINF:0, tvg-id="SkySportsAction.uk" tvg-logo="http://149.56.14.45/Logo/2018/kf0oba1502554875.png" tvg-name="UK FHD : SKY SPORTS ACTION FHD"  group-title="UK - Entertainment",UK FHD : SKY SPORTS ACTION FHD
+http://epicstream.tv:7000/live/Sumnerphoto@gmail.com/TP2teGNNjr/9406.ts
